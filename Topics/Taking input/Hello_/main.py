@@ -1,0 +1,2 @@
+
+print("Hello {}".format(input()))
